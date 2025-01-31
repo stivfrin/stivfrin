@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michle!
 - 👀 I’m interested in C/C++; Python, SQL.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Golang.
 - 💞️ I am affiliated with 21-School.
 - 📫 How to reach me tg: @stivfrin, lebedenkomikhails@gmail.com
 
