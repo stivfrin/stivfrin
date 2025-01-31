@@ -2,6 +2,7 @@
 - 👀 I’m interested in C/C++; Python, SQL.
 - 🌱 I’m currently learning Golang.
 - 💞️ I am affiliated with 21-School.
+- 🤖 Data engineer at a fintech company.
 - 📫 How to reach me tg: @stivfrin, lebedenkomikhails@gmail.com
 
 <!---
